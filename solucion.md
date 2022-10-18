@@ -1,4 +1,4 @@
-##**SOLUCION**
+**SOLUCION**
 
 - Pantallazo donde se vea la creación del contenedor y podamos comprobar que el contenedor está funcionando.
 ![Paso 1](https://github.com/Sh3nross/k8s_exercises/blob/main/Dia1-1.png?raw=true)
