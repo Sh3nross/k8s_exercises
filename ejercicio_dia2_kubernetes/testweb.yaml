@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: testweb-sherezade
+  labels:
+    app: web
+spec:
+  containers:
+  - name: webtext
+    image: roxsross12/test_web:latest
+    ports:
+    - containerPort: 80
